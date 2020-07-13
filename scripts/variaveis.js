@@ -1,0 +1,40 @@
+let cenario
+let imagemCenario
+let personagem
+let imagemPersonagem
+let jogo
+let virus
+let inimigoParado1
+let inimigoParado2
+//let inimigoPassaro
+let inimigoSkate
+let imagemVirus
+let imagemInimigoParado1
+let imagemInimigoParado2
+//let imagemInimigoPassaro
+let imagemInimigoSkate
+let imagemGameOver 
+let imagemTelaInicial;
+let imagemVida
+let cenaAtual = 'telaInicial'
+let tela
+let tela1
+let fila
+let pontuacao
+let fonteTelaInicial;
+let fonte2
+let telaInicial;
+let botaoGerenciador;
+let vida
+let cenas 
+let fonteHistoria
+let imagemFonte
+let imagemHistoria
+let imagemTeclado
+let somBotao
+let imagemFinal
+let final
+let venceu
+let jogarDeNovo
+
+const inimigos = []
