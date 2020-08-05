@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width=20px heigth=20px>
   <img  src="https://imersao-gamedev.github.io/placar/assets/gamedev-logo.png">
 </p>
 
